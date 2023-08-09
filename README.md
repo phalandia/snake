@@ -1,3 +1,3 @@
 # Snake
 
-WASD to move.
+Arrows to move.
