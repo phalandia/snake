@@ -1,3 +1,8 @@
+window.alert("Hello, welcome to Phalandia's snake game!")
+window.alert("This is not mobile friendly. Join our Discord! https://discord.gg/DsGuuJRY6j")
+console.log("if u see this ur gay")
+console.log("join our discord https://discord.gg/DsGuuJRY6j")
+
 const gameBoard = document.querySelector("#gameBoard");
 const ctx = gameBoard.getContext("2d");
 const scoreText = document.querySelector("#scoreText");
