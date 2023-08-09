@@ -1,3 +1,3 @@
 # Snake
 
-Arrows to move.
+Arrows to move. (Not mobile-friendly.)
